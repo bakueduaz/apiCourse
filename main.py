@@ -4,7 +4,7 @@ from flask_cors import CORS, cross_origin
 app = Flask(__name__)
 CORS(app)
 
-API_KEY = "4b1a0e44-0205-4ad8-9158-3c10c3e87ae9"
+API_KEY = "53f1b64d-5042-47b5-b3d8-8f6da5f95cb3"
 
 
 class News:
