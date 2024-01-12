@@ -7,6 +7,7 @@ CORS(app)
 API_KEY = "53f1b64d-5042-47b5-b3d8-8f6da5f95cb3"
 
 
+
 class News:
     def __init__(self, tit):
         self.tit = tit
